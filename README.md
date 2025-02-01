@@ -1,6 +1,6 @@
 # 👋 Hi there, welcome to my GitHub profile!
 
-I'm a passionate **Data Analyst** and **Machine Learning Enthusiast**, with a strong focus on **Data Science**, **Visualization**, and **Interactive Dashboards**.
+I'm a **Data Analyst** and **Machine Learning Enthusiast**, with a strong focus on **Data Science**, **Visualization**, and **Interactive Dashboards**.
 
 ---
 
